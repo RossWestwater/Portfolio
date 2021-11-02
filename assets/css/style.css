@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-size: cover;
+    background-color: rgba(18, 9, 155, 0.699);
+    font-size: 28px;
+}
+
+header img {
+    display: flex;
+    height: 139.031px;
+    border: solid 2px #a57881;
+}
+
+nav {
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    background-color: purple;
+    width: 200px;
+    height: 500px;
+    position: absolute;
+    justify-content: space-around;
+}
+
+ul {
+    border:rgba(18, 9, 155, 0.699) solid 2px;
+    padding: 25px 10px;
+}
