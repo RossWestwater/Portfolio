@@ -190,6 +190,10 @@ address {
     text-align: center;
 }
 
+#resumé div {
+    text-align: center;
+}
+
 .button {
     background-color: burlywood;
     border: none;
