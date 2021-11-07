@@ -1,5 +1,5 @@
 :root {
-    --border: #0089ff75;
+    --border: #0089ff;
   }
 
 * {
@@ -112,9 +112,9 @@ main img {
     width: 100%;
     display:flex;
     font-size: 30px;
-    background-color: var(--border);
-    margin: 30px 0;
-    padding: 40px 0 40px 45%;
+    padding: 40px 0 40px 0;
+    justify-content: center;
+    background-image: radial-gradient(var(--border), #0000006b);
 }
 
 .works-cited {
@@ -158,12 +158,13 @@ main img {
 
 #contact-info {
     width: 100%;
+    padding: 10px 0 25px 0;
 }
 
 #contact-info h3 {
     padding:40px 40px;
     font-size: 30px;
-    background-color: var(--border);
+    background-image: radial-gradient(var(--border), #0000006b);
     margin: 30px 0;
     text-align: center;
 }
@@ -182,7 +183,7 @@ address {
 
 #resumé h3 {
     font-size: 30px;
-    background-color: var(--border);
+    background-image: radial-gradient(var(--border), #0000006b);
     margin: 0 0 30px 0;
     width:100%;
     padding: 40px 40px;
