@@ -10,7 +10,7 @@ The deployed website URL is:
 https://rosswestwater.github.io/Portfolio/
 
 Upon following the deployed we will see the following:
-![alt text](assets/images/portfolio-ross.png)
+![picture of my portfolio as it stands 11/7/21](/assets/images/Portfolio-Ross.png)
 
 ## License
 All images and icons apart from the picture of myself were obtained courtesy of open source sites.
